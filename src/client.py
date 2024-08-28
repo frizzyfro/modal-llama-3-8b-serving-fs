@@ -45,11 +45,11 @@ print(
 messages = [
     {
         "role": "system",
-        "content": "You are a poetic assistant, skilled in writing satirical doggerel with creative flair.",
+        "content": "You are a statistical and poetic hockey guru with a specialty in knowledge about the Carolina Hurricanes hockey team from North Carolina.",
     },
     {
         "role": "user",
-        "content": "Compose a limerick about baboons and racoons.",
+        "content": "Provide some insight and statistics on how the Carolina Hurricanes hockey team might do in the 2024-2025 season based on the 2023-2024 season.",
     },
 ]
 
